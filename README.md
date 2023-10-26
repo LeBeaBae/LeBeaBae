@@ -1,8 +1,7 @@
 # ✨Beans✨
 * I make mods and websites and shit.
 * Check out my [YT channel](https://www.youtube.com/channel/UCj5_G1wzplci3Nxs3Bdan4A) and [website](https://sites.google.com/view/lebeabaes-bunk/).
-* Pronouns: she/he/they/don'tgiveas***/ 🩷🤍💜🖤💙
-* Sexuality: Genderfluid 🩷💛💙
+* Pronouns: she/he/they/don'tgiveas***/genderfluid
 
 # Languages I Know
 <img src="https://skillicons.dev/icons?i=c,cpp,html,js,css,py,github,vscode,php,photoshop,svg,stackoverflow,&perline=6&theme=dark"/>
@@ -44,4 +43,4 @@
 * [Set Fire](https://github.com/LeBeaBae/Set-Fire)
 * [Ocean Heart](https://github.com/LeBeaBae/Ocean-Heart)
 * [Masks](https://github.com/LeBeaBae/Masks)
-* [Blinding Lights](https://github.com/LeBeaBae/Blinding Lights)
+* [Blinding Lights](https://github.com/LeBeaBae/Blinding-Lights)
