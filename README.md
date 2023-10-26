@@ -1,7 +1,8 @@
 # ✨Beans✨
 * I make mods and websites and shit.
 * Check out my [YT channel](https://www.youtube.com/channel/UCj5_G1wzplci3Nxs3Bdan4A) and [website](https://sites.google.com/view/lebeabaes-bunk/).
-* Pronouns: she/he/they/don'tgiveas***/genderfluid
+* Pronouns: she/he/they/don'tgiveas***/ 🩷🤍💜🖤💙
+* Sexuality: Genderfluid 🩷💛💙
 
 # Languages I Know
 <img src="https://skillicons.dev/icons?i=c,cpp,html,js,css,py,github,vscode,php,photoshop,svg,stackoverflow,&perline=6&theme=dark"/>
@@ -35,6 +36,8 @@
 * [The Tomfoolery](https://github.com/LeBeaBae/The-Tomfoolery)
 * [Arbox](https://github.com/LeBeaBae/Arbox)
 * [Two Faces (RB)](https://github.com/LeBeaBae/Two-Faces)
+* [Unbelievabox](https://github.com/LeBeaBae/Unbelievabox)
+* [Splaatbox](https://github.com/LeBeaBae/Splaatbox)
 
 ## Mods I've worked on :)
 * [StarBox](https://github.com/LeBeaBae/StarBox)
