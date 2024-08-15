@@ -1,7 +1,7 @@
 # ✨Beans✨
 * I make mods and websites and shit :)
 * Check out my [YouTube channel](https://www.youtube.com/channel/UCj5_G1wzplci3Nxs3Bdan4A) and [website](https://sites.google.com/view/lebeabaes-bunk/).
-* Pronouns:   she/he/they/don'tgiveas***
+* Pronouns:   she/he/they
 * Gender:     Genderfluid 🩷🤍💜🖤💙
 * Sexuality:  Pansexual   🩷💛💙
 
