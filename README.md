@@ -12,4 +12,5 @@
 [![LeBeaBae's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeBeaBae&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Repos
-none of considerable mention :D
+[JavaScript Music Player](https://github.com/LeBeaBae/Music-Player)
+none others of considerable mention :D
