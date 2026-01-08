@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,html,js,css,py,github,vscode,php,photoshop,svg,stackoverflow,&perline=6&theme=dark"/>
 
 # GitHub Stats
-[![LeBeaBae's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeBeaBae&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![LeBeaBae's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebeabae)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Repos
 [JavaScript Music Player](https://github.com/LeBeaBae/Music-Player)
